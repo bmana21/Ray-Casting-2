@@ -1,0 +1,3 @@
+/home/beso/CLionProjects/Ray Casting #2/cmake-build-debug/CMakeFiles/Ray_Casting__2.dir
+/home/beso/CLionProjects/Ray Casting #2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/beso/CLionProjects/Ray Casting #2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
